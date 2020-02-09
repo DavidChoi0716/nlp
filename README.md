@@ -11,4 +11,5 @@ learn RNN and write codes refer to the following &lt;Deep Learning from Scratch2
 
   -> 
 -통계 기반 기법
+
 -추론 기반 기법(word2vec)
